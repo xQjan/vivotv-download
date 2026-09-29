@@ -1,0 +1,13 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/xQjan/vivotv-download/raw/main/vivotv.apk",
+  "sha256": "74d319e4c3b96f8cbc9f3d96974a7bd65a10df4b147522c11e866e74aaf3f791",
+  "notes": [
+    "Updates direkt in der App: In der Seitenleiste erscheint dann „Update verfügbar“",
+    "Ton- und Untertitelwahl gilt jetzt je Film bzw. Serie",
+    "Schnelles Scrollen in Filmen und Serien verliert den Fokus nicht mehr",
+    "Schriftzüge auch in „Top-Empfehlungen für dich“",
+    "Mehr Stabilität und kleinere Fehlerbehebungen"
+  ]
+}
