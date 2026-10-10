@@ -21,6 +21,8 @@
    ```
    https://github.com/xQjan/vivotv-download/raw/main/vivotv.apk
    ```
+   oder den Code: 9374450
+   
 3. Die Installation bestätigen (beim ersten Mal Downloader das Installieren unbekannter Apps erlauben).
 4. vivotv öffnen und die Zugangsdaten des eigenen IPTV-Anbieters eingeben.
 
