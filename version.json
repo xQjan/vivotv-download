@@ -1,9 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://github.com/xQjan/vivotv-download/raw/main/vivotv.apk",
-  "sha256": "4bcd26039b8a0db5fbd36502a231f3adc711123ecf6e6a5d69b22c3d59c8a731",
+  "sha256": "76c798c70b027938f1c76d9578554c969e018e6f1be6e7690c2b5b0b493da68c",
   "notes": [
+    "Updates kommen schneller an: vivotv sieht jetzt auch beim Zurückkehren in die App nach neuen Versionen",
     "Neu: „Top 10 Filme aller Zeiten“ und „Top 10 Serien aller Zeiten“ unter Entdecken",
     "Filme und Serien erscheinen überall bevorzugt in 4K – in Entdecken, Empfehlungen und Suche, ohne doppelte Einträge",
     "Sport: jetzt als Startseite wählbar, die Live-Tabelle zeigt Siege und Niederlagen",
