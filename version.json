@@ -1,12 +1,13 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apkUrl": "https://github.com/xQjan/vivotv-download/raw/main/vivotv.apk",
-  "sha256": "98c3f7b1581f69c80b7072e3c5bf9c749a1f4830f3d4a5d1056a97a830d83d6c",
+  "sha256": "4bcd26039b8a0db5fbd36502a231f3adc711123ecf6e6a5d69b22c3d59c8a731",
   "notes": [
-    "Neu: Sport statt Fußball – mit Eishockey (DEL, CHL, NHL), Basketball (NBA), Football (NFL) und Tennis (ATP, WTA)",
-    "Sport: Anzeigetafel, Teamfarben, Live-Vorschau und automatische Senderzuordnung über den Programmführer",
-    "Einstellungen: Wettbewerbe lassen sich auswählen, die Liste scrollt jetzt mit sichtbarer Anzeige",
-    "Wichtig für alle mit Version 1.2 oder älter: Das Update lässt sich nicht drüberinstallieren. Bitte vivotv einmal deinstallieren und neu installieren."
+    "Neu: „Top 10 Filme aller Zeiten“ und „Top 10 Serien aller Zeiten“ unter Entdecken",
+    "Filme und Serien erscheinen überall bevorzugt in 4K – in Entdecken, Empfehlungen und Suche, ohne doppelte Einträge",
+    "Sport: jetzt als Startseite wählbar, die Live-Tabelle zeigt Siege und Niederlagen",
+    "Fire TV: Der Suchbegriff erscheint jetzt im Tastaturfeld, Backups klappen auch auf älteren Geräten",
+    "Behoben: Tor-Einblendungen blieben manchmal stehen – außerdem scrollt Entdecken flüssiger"
   ]
 }
