@@ -1,14 +1,14 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://github.com/xQjan/vivotv-download/raw/main/vivotv.apk",
-  "sha256": "76c798c70b027938f1c76d9578554c969e018e6f1be6e7690c2b5b0b493da68c",
+  "sha256": "07f8d6736f28f325e7930223c2f85f44100f7c7677efe1caaa4281ba771cd893",
   "notes": [
-    "Updates kommen schneller an: vivotv sieht jetzt auch beim Zurückkehren in die App nach neuen Versionen",
-    "Neu: „Top 10 Filme aller Zeiten“ und „Top 10 Serien aller Zeiten“ unter Entdecken",
-    "Filme und Serien erscheinen überall bevorzugt in 4K – in Entdecken, Empfehlungen und Suche, ohne doppelte Einträge",
-    "Sport: jetzt als Startseite wählbar, die Live-Tabelle zeigt Siege und Niederlagen",
-    "Fire TV: Der Suchbegriff erscheint jetzt im Tastaturfeld, Backups klappen auch auf älteren Geräten",
-    "Behoben: Tor-Einblendungen blieben manchmal stehen – außerdem scrollt Entdecken flüssiger"
+    "Neu: „Start“ – Weiterschauen, Live-TV, Sport, Top 10 und Merkliste auf einen Blick, auch als Startseite wählbar",
+    "Entdecken: Neuer Hero-Bereich ähnlich wie bei Netflix – neue Titel groß im Bild, mit ◀ ▶ blättern",
+    "Entdecken und Start öffnen deutlich schneller",
+    "Einstellungen: „Start“ und „Sport“ lassen sich aus dem Menü ausblenden",
+    "Darstellerseiten zeigen Filme und Serien jetzt bevorzugt in 4K",
+    "Titel wie „Legend.of.the.White.Dragon.“ erscheinen jetzt lesbar"
   ]
 }
